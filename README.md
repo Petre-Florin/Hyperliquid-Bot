@@ -10,5 +10,3 @@ stateless strategies, and **backtest/live sharing the exact same pipeline**
 unimplemented (`hyperliquid_client.py` raises `NotImplementedError`) until real
 wallet signing and a full soak-test period are complete. Nothing here places
 real orders.
-
-## Architecture
